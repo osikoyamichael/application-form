@@ -1,2 +1,2 @@
-# application form for scholarship
-https://archangel1999.github.io/application-form/second%20project.html
+# application form for scholarships
+https://osikoyamichael.github.io/application-form/second%20project.html
